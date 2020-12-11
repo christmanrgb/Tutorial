@@ -1,0 +1,21 @@
+{
+  "name": "tubes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "start": "index.js",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "fs": "^0.0.1-security",
+    "express": "^4.17.1",
+    "jquery": "^3.5.1",
+    "ol": "^6.4.3",
+    "pg-promise": "^10.8.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
